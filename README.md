@@ -1,1 +1,1 @@
-# peringkasan-teks-berita-bahasa-inggris-dengan-strategi-ekstraktif-menggunakan-algoritma-knn
+# Peringkasan Teks Berita Bahasa Inggris dengan Strategi Ekstraktif menggunakan Algoritma K-Nearest Neighbour
