@@ -15,8 +15,8 @@ Untuk mengimplementasikan algoritma TextRank untuk proyek ini, dataset harus dip
  3. Kata-kata dari kalimat yang sudah dibersihkan kemudian diberi tokenized. Setiap kata dari kalimat tersebut diberi nilai token berdasarkan koefisien kata-kata yang disematkan (embedded wording coefficient).
 4. Kata diubah menjadi representasi vektor (vector representation) menggunakan glove dan akhirnya kalimat menjadi representasi vektor dengan merata-ratakan semua vektor kata individual dalam sebuah kalimat.
 
-##Implementasi
-Pada proses implementadi, dimulai dari tahapan berikut.
+## Implementasi
+Pada proses implementasi, dimulai dari tahapan berikut.
 1. Mengkompresi File
 2. Preprocessing (Data Cleaning, Tokenization, Stopwords Removal)
 3. Vector Representation of Sentences
