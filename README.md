@@ -1,4 +1,4 @@
-# Peringkasan Teks Berita Bahasa Inggris dengan Strategi Ekstraktif menggunakan Algoritma K-Nearest Neighbour
+# Peringkasan Teks Berita Bahasa Inggris dengan Strategi Ekstraktif menggunakan Algoritma Text Rank
 
 ## Dataset:
 1. BBC News Summary (https://www.kaggle.com/pariza/bbc-news-summary)
